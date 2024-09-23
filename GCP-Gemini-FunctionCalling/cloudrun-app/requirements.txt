@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+google-cloud-bigquery
+Flask==3.0.0
+Werkzeug==3.0.0
+gunicorn
